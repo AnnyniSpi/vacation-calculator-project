@@ -32,10 +32,8 @@ GET .../calculate
 
 ### Responses:
 
-```text
-{
+```
   Vacation pay amount: 46075
-}
 ```
 
 **200 OK**
