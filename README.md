@@ -1,5 +1,5 @@
 ***
-## Тестовое задание.
+## Test task.
 
 - Rest API for counting the amount of vacation pay.
 - Based on Spring Boot ecosystem technology.
